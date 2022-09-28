@@ -1,2 +1,2 @@
 # spark_with_jupyter_notebook
-Jupyter Notebook Python, Spark cluster
+Jupyter Notebook Python with pyspark environments, Spark cluster
