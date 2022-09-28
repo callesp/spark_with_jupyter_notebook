@@ -18,3 +18,5 @@ Jupyter Notebook Python with pyspark environments, Spark cluster
     {notebook} represents contaienr name of pyspark jupyter notebook.
 
 4. Open notebook url with your web browser.
+
+5. Visit spark webui via `http://127.0.0.1:8080/` , and extract the Spark Master url which is used by SparkSession.
